@@ -1,0 +1,122 @@
+[
+  {
+    "Owner": "John Doe",
+    "Balance": 100.00
+  },
+  {
+    "Owner": "Jane Smith",
+    "Balance": 50.00
+  },
+  {
+    "Owner": "Mike Johnson",
+    "Balance": 200.00
+  },
+  {
+    "Owner": "Emily Davis",
+    "Balance": 75.50
+  },
+  {
+    "Owner": "David Brown",
+    "Balance": 300.00
+  },
+  {
+    "Owner": "Sarah Wilson",
+    "Balance": 150.25
+  },
+  {
+    "Owner": "Michael Lee",
+    "Balance": 125.00
+  },
+  {
+    "Owner": "Jennifer Miller",
+    "Balance": 75.00
+  },
+  {
+    "Owner": "Daniel Anderson",
+    "Balance": 50.75
+  },
+  {
+    "Owner": "Laura Thomas",
+    "Balance": 400.00
+  },
+  {
+    "Owner": "Christopher Martinez",
+    "Balance": 250.00
+  },
+  {
+    "Owner": "Jessica Taylor",
+    "Balance": 175.50
+  },
+  {
+    "Owner": "Andrew Clark",
+    "Balance": 95.25
+  },
+  {
+    "Owner": "Olivia Scott",
+    "Balance": 125.50
+  },
+  {
+    "Owner": "Matthew Turner",
+    "Balance": 80.00
+  },
+  {
+    "Owner": "Amanda Hernandez",
+    "Balance": 150.75
+  },
+  {
+    "Owner": "Justin Walker",
+    "Balance": 200.00
+  },
+  {
+    "Owner": "Rachel Green",
+    "Balance": 100.25
+  },
+  {
+    "Owner": "Kevin Young",
+    "Balance": 50.50
+  },
+  {
+    "Owner": "Lauren Hall",
+    "Balance": 300.00
+  },
+  {
+    "Owner": "Robert King",
+    "Balance": 175.00
+  },
+  {
+    "Owner": "Megan Adams",
+    "Balance": 90.75
+  },
+  {
+    "Owner": "William Turner",
+    "Balance": 125.50
+  },
+  {
+    "Owner": "Stephanie Baker",
+    "Balance": 75.00
+  },
+  {
+    "Owner": "Anthony Brooks",
+    "Balance": 200.25
+  },
+  {
+    "Owner": "Melissa Simmons",
+    "Balance": 150.50
+  },
+  {
+    "Owner": "Richard Davis",
+    "Balance": 400.00
+  },
+  {
+    "Owner": "Elizabeth White",
+    "Balance": 250.75
+  },
+  {
+    "Owner": "Thomas Johnson",
+    "Balance": 80.50
+  },
+  {
+    "Owner": "Michelle Thompson",
+    "Balance": 125.00
+  }
+]

@@ -1,0 +1,43 @@
+use master
+GO
+
+CREATE DATABASE DigitalCurrency
+GO
+
+USE DigitalCurrency 
+GO
+
+CREATE TABLE Wallet(
+ID INT IDENTITY(1,1) PRIMARY KEY,
+Holder VARCHAR(50) NOT NULL,
+Balance DECIMAL(18,0) NOT NULL
+);
+GO
+
+INSERT Wallet (Holder,Balance) VALUES  
+('Mahmoud',7500),
+('Ahmed',2360);
+GO
+
+
+CREATE PROCEDURE AddWallet
+@Holder VARCHAR(50),
+@Balance DECIMAL(18,0)
+AS
+BEGIN
+INSERT INTO Wallet (Holder,Balance)
+VALUES(@Holder,@Balance)
+END
+GO
+
+
+CREATE PROCEDURE GetAllWallets
+AS 
+BEGIN
+SELECT * FROM Wallet
+END
+GO
+
+
+
+
